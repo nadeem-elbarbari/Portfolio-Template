@@ -254,7 +254,7 @@ body > header {
   transition: 0.3s;
 }
 #home .socials li a:hover i {
-  background-color: var(--white-color);
+  background-color: var(--white-color) !important;
   color: #000 !important;
 }
 /* Home End */
